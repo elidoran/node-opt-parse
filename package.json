@@ -33,14 +33,14 @@
   "bugs": "http://github.com/elidoran/node-opt-parse/issues",
   "devDependencies": {
     "coffee-coverage": "^1.0.1",
-    "coffee-script": "^1.12.1",
+    "coffee-script": "^1.12.2",
     "coveralls": "^2.11.15",
     "istanbul": "^0.4.5",
     "mocha": "^3.2.0",
     "mocha-lcov-reporter": "^1.2.0"
   },
   "dependencies": {
-    "@use/core": "^0.3.0"
+    "@use/core": "^0.4.0"
   },
   "engines": {
     "node": ">=0.12"
