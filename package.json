@@ -40,7 +40,7 @@
     "mocha-lcov-reporter": "^1.2.0"
   },
   "dependencies": {
-    "@use/core": "^0.2.0"
+    "@use/core": "^0.3.0"
   },
   "engines": {
     "node": ">=0.12"
