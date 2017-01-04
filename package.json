@@ -1,6 +1,6 @@
 {
   "name": "@opt/parse",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Modular options parser allowing plugins to provide everything.",
   "main": "lib",
   "keywords": [
