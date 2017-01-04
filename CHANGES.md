@@ -1,3 +1,8 @@
+0.2.0 - Released 2017/01/04
+
+1. update @use/core to 0.4.0
+
+
 0.1.1 - Released 2017/01/04
 
 1. update @use/core to 0.3.0
